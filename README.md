@@ -121,4 +121,3 @@ Economy prediction is calibrated and reproducible at ~64% accuracy. Advancing be
 **Author:** Antoine Baudet  
 **License:** MIT  
 **Dataset:** [sneakyzero/cs2-pro-round-economy](https://huggingface.co/datasets/sneakyzero/cs2-pro-round-economy)
-```
